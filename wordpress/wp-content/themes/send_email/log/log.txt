@@ -1,0 +1,10 @@
+Time: 2024-04-22 15:18:39
+To: hauv@mail.ru
+Subject: dsaf
+Message: my message
+-------------------------
+Time: 2024-04-22 15:19:30
+To: hauv@mail.ru
+Subject: dsaf2
+Message: my message2
+-------------------------
